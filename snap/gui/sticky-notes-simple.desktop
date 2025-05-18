@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Sticky Notes Simple
+Exec=sticky-notes-simple
+Icon=${SNAP}/meta/gui/sticky-notes-simple.png
+Type=Application
+Categories=Utility;
+StartupNotify=true
