@@ -2,6 +2,10 @@
 
 A modern, feature-rich sticky notes application built with PyQt5.
 
+## Installation
+Download the snap from [here](https://drive.google.com/file/d/1yv2nadw-zsASmumgdQe1YQRRyTPwgGvL/view?usp=sharing)
+`sudo snap install <path-to-snap> --dangerous`
+
 ## Features
 
 - Create, edit, and delete sticky notes
